@@ -1,5 +1,7 @@
+
 # CMS第一个文档    
-### [查看第二个文档](https://github.com/GuoLiBin6/my-code/blob/master/Second%20doc.md)
+### 
+[查看第二个文档](https://github.com/GuoLiBin6/my-code/blob/master/Second%20doc.md)
 >1. github是什么？    
  >> 支持git，面向开源的及私有软件的托管平台
   -----
