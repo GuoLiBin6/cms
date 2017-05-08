@@ -1,4 +1,5 @@
 
+
 # 第一次接触Markdown
 ## 1.标题
 # 一级标题
@@ -16,6 +17,17 @@
 
  &emsp;&emsp;接下来是一张图片，如果你想要寻找类似的图片请点击超链接“[找类似图片](https://cn.bing.com/images/search?q=%e7%8c%ab%e5%92%aa%e5%9b%be%e7%89%87&id=69F7C777BCEB60C2E8C52076BCEFF43CCA56639C&FORM=IQFRBA)”
  
+ ![这是一个图片](https://cn.bing.com/images/search?view=detailV2&ccid=ISEg1BlM&id=D5BBA3E18937C4E40472A15AB263B64EC0795B6C&thid=OIP.ISEg1BlMsnOFZDCB2ft22QDxEs&q=%e5%9b%be%e7%89%87%e5%9c%b0%e5%9d%80%e9%93%be%e6%8e%a5%e5%a4%a7%e5%85%a8&simid=608029261603864788&selectedIndex=0&qpvt=%e5%9b%be%e7%89%87%e5%9c%b0%e5%9d%80%e9%93%be%e6%8e%a5%e5%a4%a7%e5%85%a8)
+ 
  ## 5.代码区块
  &emsp;&emsp;**Markdown**也支持:+1:HTML的标签，如你插入如下代码，也可以正确插入图片
 
+    <html>
+        <head>
+            <title>
+            </title>
+        <head>
+        <body>
+            <img >
+        </body>
+     </html>
